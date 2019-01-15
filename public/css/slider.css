@@ -33,7 +33,7 @@
 .carousel .wrapper {
     width:150%;
     height:0px;
-    background-color:rgba(4, 0, 255, 0.698);
+    background-image:linear-gradient(rgba(4, 0, 255, 0.698),rgb(0, 162, 255));
     transition:0.5s all ease-in-out;
     position:absolute;
     transform: rotate(-5deg);

@@ -1,3 +1,11 @@
+/*general styling*/
+body {
+    margin:0;
+    padding:0;
+    background-image: linear-gradient(to right, rgb(32, 2, 202), rgb(0, 238, 255));
+}
+
+
 .navbar {
     background-color: rgb(13, 0, 134);
 }
@@ -11,3 +19,14 @@
 .navbar a:hover {
     color: rgb(255, 255, 255) !important;
 }
+
+.navbar-nav {
+    text-align: center;
+}
+
+/* .nav-item {
+    border-bottom: solid 1px white;
+}
+.nav-item:nth-child(5){
+    border-bottom: none;
+} */
